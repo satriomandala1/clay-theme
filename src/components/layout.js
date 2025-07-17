@@ -40,7 +40,7 @@ const Layout = (props) => {
                 className={`nav-home  ${data.pathname.includes("/bio") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/bio`}>Bio</Link>
+                <Link to={`/bio`}>Profile</Link>
               </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/work") ? "nav-current" : ""} `}
