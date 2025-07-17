@@ -143,15 +143,15 @@ collections:
           - { label: "Description", name: "description", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
 
-      - file: "src/pages/bio/index.md"
-        label: "Bio"
-        name: "bio"
+      - file: "src/pages/profile/index.md"
+        label: "profile"
+        name: "profile"
         fields:
           - {
               label: "Template Key",
               name: "templateKey",
               widget: "hidden",
-              default: "bio-page",
+              default: "profile-page",
             }
           - {
               label: "Thumbnail",

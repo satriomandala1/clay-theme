@@ -37,7 +37,7 @@ const Layout = (props) => {
                 <Link to={`/`}>Home</Link>
               </li>
               <li
-                className={`nav-home  ${data.pathname.includes("/bio") ? "nav-current" : ""} `}
+                className={`nav-home  ${data.pathname.includes("/profile") ? "nav-current" : ""} `}
                 role="menuitem"
               >
                 <Link to={`/profile`}>Profile</Link>
