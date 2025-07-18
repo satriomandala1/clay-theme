@@ -3,7 +3,7 @@ templateKey: profile-page
 thumbnail: /img/gambar3.jpg
 date: 2023-03-02T10:17:05.133Z
 title: GUEST TEACHER
-description: "Perkenalkan kami dari PT. Aretanet Indonesia, merupakan Perusahaan yang bergerak di bidang pendidikan, IT dan Digital Marketing ingin menawarkan kerjasama untuk berkontribusi dalam dunia pendidikan dengan Program Guest Teacher bagi siswa/i SMK/SMA/MAN berbasis ICT (Information Comunication and Technology) yang up to date sesuai dengan kebutuhan industri."
+description: ""
 
 number: 1
 pagetype:
@@ -14,7 +14,7 @@ featuredimage: /img/gambar3.jpg
 
 ![clay-images-12](/img/clay-images-12.jpg) -->
 
-<!-- Perkenalkan kami dari *PT. Aretanet Indonesia*, merupakan
+Perkenalkan kami dari *PT. Aretanet Indonesia*, merupakan
 Perusahaan yang bergerak di bidang pendidikan, IT dan Digital
 Marketing ingin menawarkan kerjasama untuk berkontribusi dalam
 dunia pendidikan dengan Program Guest Teacher bagi siswa/i

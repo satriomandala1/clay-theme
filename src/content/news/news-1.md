@@ -1,14 +1,30 @@
 ---
 templateKey: blog-post
-thumbnail: /img/clay-images-10.jpg
+thumbnail: /img/linux.jpg
 date: 2023-03-16T04:59:59.653Z
-title: News 1
-description: "Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate!"
+title: Linux Fundamental
+description: ""
 ---
-![clay-images-11](/img/clay-images-11.jpg)
 
-![clay-images-12](/img/clay-images-12.jpg)
+Linux Fundamentals
+Workshop Linux Fundamentals ini dirancang khusus untuk memberikan pemahaman mendalam kepada peserta, khususnya siswa SMK/SMA, mengenai dasar-dasar sistem operasi Linux yang saat ini menjadi salah satu sistem operasi paling banyak digunakan di dunia server dan dunia industri TI.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque. Nullam non nisi est sit amet facilisis. Quisque id diam vel quam. Morbi tincidunt augue interdum velit. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Mi tempus imperdiet nulla malesuada pellentesque. Maecenas ultricies mi eget mauris pharetra et ultrices. Cursus risus at ultrices mi tempus imperdiet nulla. Sit amet nisl suscipit adipiscing bibendum est ultricies. At volutpat diam ut venenatis tellus in. Cursus eget nunc scelerisque viverra mauris in. Ut aliquam purus sit amet luctus venenatis lectus.
+Pelatihan ini mencakup pengetahuan teoritis dan juga praktik langsung di lapangan, mulai dari instalasi Linux, pengenalan antarmuka terminal, penggunaan perintah dasar (command line), hingga manajemen direktori dan file sistem. Materi disampaikan dengan pendekatan yang mudah dipahami dan langsung aplikatif, sehingga peserta dapat langsung menguasai keterampilan yang dibutuhkan dalam dunia kerja atau untuk pengembangan proyek pribadi.
 
+Dengan mengikuti workshop ini, peserta tidak hanya akan memahami konsep dasar Linux, tetapi juga akan dilatih untuk mampu mengoperasikan dan mengelola server berbasis Linux secara mandiri. Hal ini penting karena Linux adalah fondasi dari banyak infrastruktur digital modern, termasuk server web, cloud computing, hingga sistem keamanan jaringan.
+
+🎯 Goal:
+Setelah mengikuti workshop ini, peserta diharapkan mampu:
+
+- Menguasai cara instalasi sistem operasi Linux pada komputer atau server.
+
+- Memahami struktur direktori pada Linux serta fungsinya.
+
+- Menggunakan command line interface (CLI) untuk menjalankan perintah-perintah dasar.
+
+- Melakukan pengelolaan file dan folder melalui terminal.
+
+- Menjalankan tugas administrasi dasar sistem Linux.
+
+- Mempersiapkan diri untuk sertifikasi atau pelatihan lanjutan seperti LPIC-1 atau Linux Essentials.
 

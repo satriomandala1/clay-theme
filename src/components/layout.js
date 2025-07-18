@@ -113,11 +113,11 @@ const Layout = (props) => {
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
         Built by {""}
         <a
-          href="https://www.instagram.com/matthew_azzah/"
+          href="https://pmb.aretacollege.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Juan Matthew Ciputra
+          PT. ARETA INFORMATICS COLLEGE
         </a>
         {""}  {""}
         <a
