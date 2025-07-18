@@ -1,35 +1,36 @@
 ---
 templateKey: blog-post
-thumbnail: /img/mikrotik.jpg
-date: 2023-03-06T05:10:14.676Z
-title: Mikrotik fundamental
+thumbnail: /img/webdevelop.jpg
+date: 2022-02-04T10:06:48.715Z
+title: Web Development
 description: ""
 ---
-<!--[clay-images-10](/img/clay-images-10.jpg)
+<!--[clay-images-17](/img/clay-images-17.jpg)
 
-![clay-images-12](/img/clay-images-12.jpg)-->
+![clay-images-15](/img/clay-images-15.jpg)-->
 
-Mikrotik Fundamental
-Workshop Mikrotik Fundamental ini dirancang sebagai program pengenalan dan pelatihan dasar yang ditujukan kepada siswa jurusan Teknik Komputer dan Jaringan (TKJ) atau jurusan lain yang berkaitan dengan dunia jaringan komputer. Melalui kegiatan ini, peserta akan memperoleh pemahaman menyeluruh mengenai konsep dasar jaringan, serta penerapan praktis penggunaan perangkat Mikrotik yang umum digunakan di lingkungan sekolah, instansi, maupun dunia industri.
+**Web Development**
 
-Fokus utama pelatihan ini adalah membekali siswa dengan kemampuan dasar dalam mengelola jaringan menggunakan perangkat Mikrotik, mulai dari pengenalan interface, konfigurasi IP Address, DHCP, NAT, firewall, routing dasar, hingga manajemen bandwidth. Workshop ini juga menjadi tahap awal persiapan siswa untuk mengikuti sertifikasi internasional Mikrotik MTCNA (Mikrotik Certified Network Associate).
+Workshop *Web Development* ini dirancang untuk memberikan pemahaman menyeluruh kepada peserta didik mengenai dasar-dasar pembuatan dan pengelolaan situs web yang menarik, profesional, dan fungsional. Fokus utama dari pelatihan ini adalah membekali siswa dengan keterampilan teknis serta pemahaman kreatif dalam membangun website yang dapat digunakan untuk kebutuhan personal, portofolio, maupun keperluan pemasaran digital (**digital marketing**) sebuah perusahaan atau bisnis.
 
-Melalui pendekatan praktik langsung (hands-on lab), peserta akan mendapatkan pengalaman nyata dalam mengkonfigurasi perangkat Mikrotik secara mandiri dan bertahap. Hal ini penting sebagai bekal untuk menghadapi Uji Kompetensi Keahlian (UKK) di sekolah maupun persiapan dunia kerja, yang kini banyak menggunakan Mikrotik sebagai standar perangkat jaringan.
+Materi yang disampaikan dalam workshop ini meliputi pengenalan HTML, CSS, dan JavaScript sebagai pondasi utama dalam pengembangan web, serta penerapan prinsip desain UI/UX untuk menciptakan tampilan web yang user-friendly dan menarik bagi pengunjung. Tidak hanya itu, peserta juga akan diperkenalkan dengan CMS (**Content Management System**) seperti WordPress dan praktik dasar SEO (**Search Engine Optimization**) agar website yang dibuat dapat terindeks dengan baik di mesin pencari seperti Google.
+
+Dengan pendekatan pembelajaran berbasis proyek, peserta akan diajak untuk langsung membuat dan mempublikasikan sebuah website sederhana mulai dari nol, sekaligus mempelajari cara hosting dan mengelola konten secara mandiri.
 
 🎯 Goal / Tujuan Kegiatan
-Setelah mengikuti workshop ini, peserta diharapkan mampu:
+Setelah mengikuti workshop ini, siswa diharapkan mampu:
 
-- Memahami konsep dasar jaringan komputer dan fungsi perangkat Mikrotik.
+- Memahami struktur dasar website (**frontend**) dan cara kerja halaman web.
 
-- Melakukan instalasi dan konfigurasi awal router Mikrotik.
+- Membuat desain web yang menarik menggunakan *HTML, CSS, dan JavaScript*.
 
-- Mengelola IP Address, DHCP Server, dan NAT untuk konektivitas internet lokal.
+Mengimplementasikan prinsip **UI/UX** untuk meningkatkan kenyamanan pengguna.
 
-- Menerapkan konfigurasi firewall sederhana untuk keamanan jaringan.
+- Mengenal dan menggunakan *CMS* seperti WordPress sebagai alternatif pengembangan web yang cepat dan efisien.
 
-- Melakukan monitoring dan manajemen bandwidth.
+- Menerapkan dasar-dasar *SEO* agar website mudah ditemukan oleh mesin pencari.
 
-- Mempersiapkan diri untuk menghadapi sertifikasi MTCNA serta ujian kompetensi sekolah.
+- Membuat website yang siap dipublikasikan dan dapat digunakan untuk kebutuhan promosi digital.
 
-- Mampu mengaplikasikan keahlian ini secara langsung dalam proyek sekolah, prakerin (PKL), maupun lingkungan kerja   profesional.
+- Menambah portofolio proyek nyata yang bisa digunakan saat melamar kerja atau magang.
 

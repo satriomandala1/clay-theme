@@ -46,13 +46,13 @@ const Layout = (props) => {
                 className={`nav-home  ${data.pathname.includes("/work") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/work`}>Work</Link>
+                <Link to={`/work`}>Pendahuluan</Link>
               </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/news") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/news`}>News</Link>
+                <Link to={`/news`}>Content</Link>
               </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/contact") ? "nav-current" : ""} `}
@@ -61,10 +61,10 @@ const Layout = (props) => {
                 <Link to={`/contact`}>Contact</Link>
               </li>
               <li
-                className={`nav-home  ${data.pathname.includes("/elements") ? "nav-current" : ""} `}
+                className={`nav-home  ${data.pathname.includes("/") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/elements`}>Elements</Link>
+                <Link to={`/`}></Link>
               </li>
             </ul>
           </nav>

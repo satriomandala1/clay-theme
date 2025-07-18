@@ -1,35 +1,35 @@
 ---
 templateKey: blog-post
-thumbnail: /img/mikrotik.jpg
-date: 2023-03-06T05:10:14.676Z
-title: Mikrotik fundamental
+thumbnail: /img/bisnis.jpg
+date: 2022-02-04T10:06:48.715Z
+title: Bisnis Digital
 description: ""
 ---
-<!--[clay-images-10](/img/clay-images-10.jpg)
+<!--[clay-images-17](/img/clay-images-17.jpg)
 
-![clay-images-12](/img/clay-images-12.jpg)-->
+![clay-images-15](/img/clay-images-15.jpg)-->
 
-Mikrotik Fundamental
-Workshop Mikrotik Fundamental ini dirancang sebagai program pengenalan dan pelatihan dasar yang ditujukan kepada siswa jurusan Teknik Komputer dan Jaringan (TKJ) atau jurusan lain yang berkaitan dengan dunia jaringan komputer. Melalui kegiatan ini, peserta akan memperoleh pemahaman menyeluruh mengenai konsep dasar jaringan, serta penerapan praktis penggunaan perangkat Mikrotik yang umum digunakan di lingkungan sekolah, instansi, maupun dunia industri.
+Bisnis Digital
+Workshop Bisnis Digital ini dirancang untuk memberikan pemahaman mendasar kepada peserta mengenai konsep dan praktik dalam menjalankan kegiatan bisnis dengan memanfaatkan teknologi digital. Di era transformasi digital seperti sekarang, kemampuan untuk memasarkan produk dan jasa secara online menjadi keterampilan penting yang sangat dibutuhkan di berbagai sektor industri, baik untuk pelaku usaha kecil maupun perusahaan besar.
 
-Fokus utama pelatihan ini adalah membekali siswa dengan kemampuan dasar dalam mengelola jaringan menggunakan perangkat Mikrotik, mulai dari pengenalan interface, konfigurasi IP Address, DHCP, NAT, firewall, routing dasar, hingga manajemen bandwidth. Workshop ini juga menjadi tahap awal persiapan siswa untuk mengikuti sertifikasi internasional Mikrotik MTCNA (Mikrotik Certified Network Associate).
+Melalui workshop ini, peserta akan mempelajari bagaimana cara membangun identitas digital untuk sebuah brand, strategi pemasaran menggunakan media sosial, serta pemanfaatan berbagai platform digital seperti marketplace, email marketing, website, dan tools analitik untuk meningkatkan efektivitas penjualan. Workshop ini juga membahas tren bisnis digital terkini seperti dropshipping, affiliate marketing, hingga pemanfaatan konten kreatif sebagai alat promosi.
 
-Melalui pendekatan praktik langsung (hands-on lab), peserta akan mendapatkan pengalaman nyata dalam mengkonfigurasi perangkat Mikrotik secara mandiri dan bertahap. Hal ini penting sebagai bekal untuk menghadapi Uji Kompetensi Keahlian (UKK) di sekolah maupun persiapan dunia kerja, yang kini banyak menggunakan Mikrotik sebagai standar perangkat jaringan.
+Selain itu, peserta juga akan diajarkan bagaimana teknologi informasi (IT) digunakan dalam manajemen bisnis, seperti penggunaan sistem POS (Point of Sale), aplikasi akuntansi digital, manajemen stok berbasis cloud, dan strategi pengolahan data konsumen untuk pengambilan keputusan yang lebih tepat.
 
 🎯 Goal / Tujuan Kegiatan
-Setelah mengikuti workshop ini, peserta diharapkan mampu:
+Setelah mengikuti kegiatan ini, peserta diharapkan dapat:
 
-- Memahami konsep dasar jaringan komputer dan fungsi perangkat Mikrotik.
+- Memahami konsep dasar bisnis digital dan manfaatnya dalam dunia usaha modern.
 
-- Melakukan instalasi dan konfigurasi awal router Mikrotik.
+- Menguasai strategi pemasaran digital melalui media sosial seperti Instagram, Facebook, dan TikTok.
 
-- Mengelola IP Address, DHCP Server, dan NAT untuk konektivitas internet lokal.
+- Mampu membuat konten promosi yang menarik dan tepat sasaran.
 
-- Menerapkan konfigurasi firewall sederhana untuk keamanan jaringan.
+- Menggunakan berbagai platform digital untuk menjual produk atau jasa secara online.
 
-- Melakukan monitoring dan manajemen bandwidth.
+- Mampu menganalisis performa bisnis menggunakan tools analitik sederhana.
 
-- Mempersiapkan diri untuk menghadapi sertifikasi MTCNA serta ujian kompetensi sekolah.
+- Mengaplikasikan teknologi informasi untuk mendukung operasional dan efisiensi perusahaan.
 
-- Mampu mengaplikasikan keahlian ini secara langsung dalam proyek sekolah, prakerin (PKL), maupun lingkungan kerja   profesional.
+- Siap memulai usaha mandiri atau menjadi bagian dari tim pemasaran digital di perusahaan.
 
