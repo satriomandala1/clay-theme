@@ -1,22 +1,28 @@
 ---
 templateKey: profile-page
-thumbnail: /img/clay-image-1.jpg
+thumbnail: /img/gambar3.jpg
 date: 2023-03-02T10:17:05.133Z
-title: profile
-description: A stunning Gatsby theme designed for captivating image-centric websites, perfect for photographers, portfolios, and more.
+title: GUEST TEACHER
+description: "Perkenalkan kami dari PT. Aretanet Indonesia, merupakan Perusahaan yang bergerak di bidang pendidikan, IT dan Digital Marketing ingin menawarkan kerjasama untuk berkontribusi dalam dunia pendidikan dengan Program Guest Teacher bagi siswa/i SMK/SMA/MAN berbasis ICT (Information Comunication and Technology) yang up to date sesuai dengan kebutuhan industri."
+
 number: 1
 pagetype:
   - main
-featuredimage: /img/clay-image-1.jpg
+featuredimage: /img/gambar3.jpg
 ---
-![clay-images-11](/img/clay-images-11.jpg)
+<!-- ![clay-images-11](/img/clay-images-11.jpg)
 
-![clay-images-12](/img/clay-images-12.jpg)
+![clay-images-12](/img/clay-images-12.jpg) -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque. Nullam non nisi est sit amet facilisis. Quisque id diam vel quam. Morbi tincidunt augue interdum velit. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Mi tempus imperdiet nulla malesuada pellentesque. Maecenas ultricies mi eget mauris pharetra et ultrices. Cursus risus at ultrices mi tempus imperdiet nulla. Sit amet nisl suscipit adipiscing bibendum est ultricies. At volutpat diam ut venenatis tellus in. Cursus eget nunc scelerisque viverra mauris in. Ut aliquam purus sit amet luctus venenatis lectus.
+<!-- Perkenalkan kami dari *PT. Aretanet Indonesia*, merupakan
+Perusahaan yang bergerak di bidang pendidikan, IT dan Digital
+Marketing ingin menawarkan kerjasama untuk berkontribusi dalam
+dunia pendidikan dengan Program Guest Teacher bagi siswa/i
+SMK/SMA/MAN berbasis **ICT** *(Information Comunication and
+Technology)* yang up to date sesuai dengan kebutuhan industri. -->
 
 
 
-<a href="https://unsplash.com/@tomcrewceramics" target="_blank">Image credits - Tom Crew</a>
+<a href="https://unsplash.com/@tomcrewceramics" target="_blank"></a>
 
 

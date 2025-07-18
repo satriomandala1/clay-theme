@@ -2,12 +2,19 @@
 templateKey: work-sub-page
 thumbnail: /img/clay-images-16.jpg
 date: 2022-02-04T10:06:48.715Z
-title: Work 3
-description: "Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate!"
+title: Keuntungan dan Anggaran dana 
+description: ""
 ---
 ![clay-images-17](/img/clay-images-17.jpg)
 
 ![clay-images-15](/img/clay-images-15.jpg)
 
+**Keuntungan:**
+- Dengan mengikuti kegiatan ini peserta akan mendapatkan kesemopatan belajar teknologi informasi dasar seperti MikroTik, linux, Pemrograman, Design, Bisnis digital dan Ms. office
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque. Nullam non nisi est sit amet facilisis. Quisque id diam vel quam. Morbi tincidunt augue interdum velit. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Mi tempus imperdiet nulla malesuada pellentesque. Maecenas ultricies mi eget mauris pharetra et ultrices. Cursus risus at ultrices mi tempus imperdiet nulla. Sit amet nisl suscipit adipiscing bibendum est ultricies. At volutpat diam ut venenatis tellus in. Cursus eget nunc scelerisque viverra mauris in. Ut aliquam purus sit amet luctus venenatis lectus.
+- membantu peserta untuk meningkatkan kemampuan dan pengetahuaj dalam bidang IT
+
+- membantu peserta untuk mempersiapkan diri untuk memasuki dunia industri
+
+**Anggaran Dana:** 
+    Biaya yang ditawarkan untuk acara ini adalah sukarela nominal nya dari peserta atau dar pihakk sekolah. Untuk biaya transportasi dan akomondasi pemateri, asisten, dan penanggung jawab di tanggung pihak pengundang . Penyerahan biaya dilakukan setelah acara selesai dan di berikan penanggung jawab.

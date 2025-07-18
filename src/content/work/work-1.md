@@ -1,14 +1,29 @@
 ---
 templateKey: work-sub-page
-thumbnail: /img/clay-images-10.jpg
+thumbnail: /img/areta.webp
 date: 2023-03-16T04:59:59.653Z
-title: Work 1
-description: "Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate!"
+title: Pendahuluan
+description: ""
 ---
-![clay-images-11](/img/clay-images-11.jpg)
+<!--[clay-images-11](/img/clay-images-11.jpg)
 
-![clay-images-12](/img/clay-images-12.jpg)
+![clay-images-12](/img/clay-images-12.jpg)-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque. Nullam non nisi est sit amet facilisis. Quisque id diam vel quam. Morbi tincidunt augue interdum velit. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Mi tempus imperdiet nulla malesuada pellentesque. Maecenas ultricies mi eget mauris pharetra et ultrices. Cursus risus at ultrices mi tempus imperdiet nulla. Sit amet nisl suscipit adipiscing bibendum est ultricies. At volutpat diam ut venenatis tellus in. Cursus eget nunc scelerisque viverra mauris in. Ut aliquam purus sit amet luctus venenatis lectus.
+Perkembangan dunia pendidikan saat ini menuntut peningkatan
+kualitas pembelajaran yang tidak hanya berbasis teori, tetapi juga
+mengutamakan keterampilan praktis yang relevan dengan
+kebutuhan dunia kerja. Lulusan SMK dan SMA diharapkan mampu
+beradaptasi dengan cepat terhadap perubahan, serta memiliki
+kompetensi yang sesuai dengan tuntutan industri dan dunia
+profesional.
 
+Dalam rangka mendukung hal tersebut, kegiatan Guest Teacher
+atau Guru Tamu menjadi salah satu solusi yang efektif untuk
+menjembatani kebutuhan antara dunia pendidikan dengan dunia
+kerja. Program ini bertujuan menghadirkan praktisi atau profesional
+dari berbagai bidang industri ke dalam lingkungan sekolah, baik di
+tingkat SMK maupun SMA, untuk berbagi pengetahuan dan
+pengalaman praktis yang tidak hanya memperkaya wawasan siswa,
+tetapi juga memotivasi mereka dalam mempersiapkan karir di
+masa depan.
 

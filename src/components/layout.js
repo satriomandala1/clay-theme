@@ -76,7 +76,7 @@ const Layout = (props) => {
           <div className="site-head-right">
             <div className="social-links">
               <Link
-                to={`https://facebook.com/${social.facebook}`}
+                to={`https://www.facebook.com/AretaCollege/${social.facebook}`}
                 title="Facebook"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -84,7 +84,7 @@ const Layout = (props) => {
                 Facebook
               </Link>
               <Link
-                to={`https://instagram.com/${social.twitter}`}
+                to={`https://www.instagram.com/areta_informaticscollege/${social.twitter}`}
                 title="Instagram"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -93,12 +93,12 @@ const Layout = (props) => {
               </Link>
 
               <Link
-                to={`https://github.com/lilxyzz/gatsby-clay`}
-                title="Github"
+                to={`https://api.whatsapp.com/send?phone=6281285234904&text=Hallo%20kak%2C%20saya%20Desi.%20Ada%20yang%20bisa%20saya%20bantu%3F`}
+                title="Whatsapp"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Github
+                Whatsapp
               </Link>
             </div>
           </div>
@@ -113,19 +113,19 @@ const Layout = (props) => {
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
         Built by {""}
         <a
-          href="https://travislord.xyz/"
+          href="https://www.instagram.com/matthew_azzah/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Travis Lord
+          Juan Matthew Ciputra
         </a>
-        {""} & {""}
+        {""}  {""}
         <a
-          href="https://github.com/abdulwaqar844"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
         >
-          Abdul Waqar
+          
         </a>
       </footer>
     </div>
