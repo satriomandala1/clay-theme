@@ -2,7 +2,7 @@
 templateKey: exhibitions-sub-page
 thumbnail: /img/santika3.jpeg
 date: 2023-03-06T05:10:14.676Z
-title: SMK KutaBumi 1
+title: SMK Dewi Sartika
 description: ""
 ---
 ![kuta3](/img/santika1.jpeg)
