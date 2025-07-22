@@ -1,6 +1,6 @@
 ---
 templateKey: profile-page
-thumbnail: /img/gambar3.jpg
+thumbnail: /img/gt21.jpg
 date: 2023-03-02T10:17:05.133Z
 title: GUEST TEACHER
 description: ""

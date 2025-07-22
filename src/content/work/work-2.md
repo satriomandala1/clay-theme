@@ -2,7 +2,7 @@
 templateKey: work-sub-page
 thumbnail: /img/maksud.jpg
 date: 2023-03-06T05:10:14.676Z
-title: Maksud dan tujuan
+title: Maksud dan Tujuan
 description: ""
 ---
 <!--[clay-images-10](/img/clay-images-10.jpg)
