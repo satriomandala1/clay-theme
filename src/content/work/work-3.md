@@ -1,6 +1,6 @@
 ---
 templateKey: work-sub-page
-thumbnail: /img/stonk3.jpg
+thumbnail: /img/KEUNTUNGAN.jpg
 date: 2022-02-04T10:06:48.715Z
 title: Keuntungan dan Anggaran Dana 
 description: ""

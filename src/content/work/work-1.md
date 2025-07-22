@@ -1,8 +1,8 @@
 ---
 templateKey: work-sub-page
-thumbnail: /img/areta.webp
+thumbnail: /img/sampul.jpg
 date: 2023-03-16T04:59:59.653Z
-title: Pendahuluan
+title: Introduction
 description: ""
 ---
 <!--[clay-images-11](/img/clay-images-11.jpg)

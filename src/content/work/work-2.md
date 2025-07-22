@@ -1,8 +1,8 @@
 ---
 templateKey: work-sub-page
-thumbnail: /img/maksud.jpg
+thumbnail: /img/MAKSUDTUJUAN.jpg
 date: 2023-03-06T05:10:14.676Z
-title: Maksud dan Tujuan
+title: Maksud dan Tujuann
 description: ""
 ---
 <!--[clay-images-10](/img/clay-images-10.jpg)
