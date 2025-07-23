@@ -17,7 +17,7 @@ const Layout = (props) => {
             href={`#`}
             onClick={() => setToggleNav(!toggleNav)}
           >
-            <div
+            {/* <div
               className="hamburger hamburger--collapse"
               aria-label="Menu"
               role="button"
@@ -26,16 +26,11 @@ const Layout = (props) => {
               <div className="hamburger-box">
                 <div className="hamburger-inner" />
               </div>
-            </div>
+            </div> */}
           </a>
           <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
-              <li
-                className={`nav-home  ${data.pathname === "/sold" ? "nav-current" : ""} `}
-                role="menuitem"
-              >
-                <Link to={`/sold`}>Documentation</Link>
-              </li>
+            
               <li
                 className={`nav-home  ${data.pathname.includes("/profile") ? "nav-current" : ""} `}
                 role="menuitem"
@@ -47,6 +42,12 @@ const Layout = (props) => {
                 role="menuitem"
               >
                 <Link to={`/work`}>Introduction</Link>
+              </li>
+                <li
+                className={`nav-home  ${data.pathname === "/sold" ? "nav-current" : ""} `}
+                role="menuitem"
+              >
+                <Link to={`/sold`}>Documentation</Link>
               </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/news") ? "nav-current" : ""} `}
