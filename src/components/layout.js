@@ -31,10 +31,10 @@ const Layout = (props) => {
           <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
               <li
-                className={`nav-home  ${data.pathname === "/" ? "nav-current" : ""} `}
+                className={`nav-home  ${data.pathname === "/sold" ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/`}>Home</Link>
+                <Link to={`/sold`}>Documentation</Link>
               </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/profile") ? "nav-current" : ""} `}
