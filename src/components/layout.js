@@ -12,12 +12,12 @@ const Layout = (props) => {
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
       <header className="site-head">
         <div className="site-head-container">
-          <a
+          { <a
             className="nav-burger"
             href={`#`}
             onClick={() => setToggleNav(!toggleNav)}
           >
-            {/* <div
+            <div
               className="hamburger hamburger--collapse"
               aria-label="Menu"
               role="button"
@@ -26,8 +26,8 @@ const Layout = (props) => {
               <div className="hamburger-box">
                 <div className="hamburger-inner" />
               </div>
-            </div> */}
-          </a>
+            </div>
+          </a> }
           <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
             
@@ -69,11 +69,11 @@ const Layout = (props) => {
               </li>
             </ul>
           </nav>
-          <div className="site-head-center">
+          {/* <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
               {title}
             </Link>
-          </div>
+          </div> */}
           <div className="site-head-right">
             <div className="social-links">
               <Link
@@ -110,7 +110,7 @@ const Layout = (props) => {
           {children}
         </div>
       </main>
-      <footer className="site-foot">
+      {/* <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
         Built by {""}
         <a
@@ -128,7 +128,19 @@ const Layout = (props) => {
         >
           
         </a>
+      </footer> */
+      <footer className="site-foot">
+          <a>Guest Teacher   
+           </a>
+        <a
+          href="https://pmb.aretacollege.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          PT. ARETA INFORMATICS COLLEGE
+           </a>
       </footer>
+      }
     </div>
   );
 };

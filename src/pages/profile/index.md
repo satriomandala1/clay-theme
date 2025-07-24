@@ -17,7 +17,7 @@ featuredimage: /img/gambar3.jpg
 Perkenalkan kami dari *PT. Aretanet Indonesia*, merupakan
 Perusahaan yang bergerak di bidang pendidikan, IT dan Digital
 Marketing ingin menawarkan kerjasama untuk berkontribusi dalam
-dunia pendidikan dengan Program Guest Teacher bagi siswa/i
+dunia pendidikan dengan Program Guest Teacher bagi siswa/i  
 SMK/SMA/MAN berbasis **ICT** *(Information Comunication and
 Technology)* yang up to date sesuai dengan kebutuhan industri. -->
 
