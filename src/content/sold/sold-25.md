@@ -7,4 +7,4 @@ description: ""
 ---
 ![kuta3](/img/global2.jpg)
 
-![kuta1](/img/global3.jpg)
+<!--[kuta1](/img/global3.jpg)-->
