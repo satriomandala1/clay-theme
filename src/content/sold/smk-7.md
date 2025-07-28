@@ -1,11 +1,11 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/tujuh1.jpeg
+thumbnail: /img/smkn71.jpg
 date: 2023-03-06T05:10:14.676Z
 title: SMKN 7 kab.Tangerang
 description: ""
 ---
-![kuta3](/img/tujuh3.jpeg)
+![kuta3](/img/smkn73.jpg)
 
-![kuta1](/img/tujuh2.jpeg)
+![kuta1](/img/smkn72.jpg)
 

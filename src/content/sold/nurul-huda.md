@@ -1,11 +1,11 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/nurul1.jpeg
+thumbnail: /img/nurulhuda1.jpg
 date: 2023-03-06T05:10:14.676Z
 title: SMK Nurul Huda Curug Wetan
 description: ""
 ---
-![kuta3](/img/nurul2.jpeg)
+![kuta3](/img/nurulhuda2.jpg)
 
-![kuta1](/img/nurul3.jpeg)
+![kuta1](/img/nurulhuda3.jpg)
 
