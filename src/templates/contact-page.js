@@ -41,7 +41,8 @@ const ContactPage = ({ data }, location) => {
     <Layout title={siteTitle} social={social}>
       <Seo title={data.markdownRemark.frontmatter.title}
         description={data.markdownRemark.frontmatter.description} 
-        image={data.markdownRemark.frontmatter.thumbnail.childImageSharp.gatsbyImageData.images.fallback.src}
+        image={data.markdownRemark.frontmatter.thumbnail?.childImageSharp?.fluid?.src || ''}
+
         />
      
       <article className="contact-form page-template ">
